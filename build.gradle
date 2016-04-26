@@ -1,0 +1,16 @@
+apply plugin: 'application'
+
+allprojects {
+    apply plugin: 'java'
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+}
+
+jar {
+    enabled = true
+}
+
+dependencies {
+    compile project(':Component')
+    compile project(':DemoApplication')
+}
