@@ -1,3 +1,7 @@
 jar {
-    enabled = true
+    enabled = false
+}
+
+dependencies {
+    compile project(':Component')
 }

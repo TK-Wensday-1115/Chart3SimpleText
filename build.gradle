@@ -7,7 +7,7 @@ allprojects {
 }
 
 jar {
-    enabled = true
+    enabled = false
 }
 
 dependencies {
