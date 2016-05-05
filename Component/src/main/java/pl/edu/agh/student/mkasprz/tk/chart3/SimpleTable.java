@@ -1,3 +1,5 @@
+package pl.edu.agh.student.mkasprz.tk.chart3;
+
 import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 

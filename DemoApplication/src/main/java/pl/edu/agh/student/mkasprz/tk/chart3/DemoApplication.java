@@ -1,3 +1,5 @@
+package pl.edu.agh.student.mkasprz.tk.chart3;
+
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.scene.Scene;
